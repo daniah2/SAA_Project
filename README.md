@@ -56,7 +56,7 @@ This repository contains all Terraform code and documentation necessary to provi
 
 ### ⚡ 3. Demo Video 
 
-- [Recorded Deployment Video](Docs/Demo.mov)
+- [Recorded Deployment Video](Docs/Demo.mp4)
 
 
 > **📸 Screenshots of Deployed Web Application**
