@@ -66,11 +66,7 @@ A visual representation of the infrastructure and network flow is included above
 ### 2. ✅ GitHub Repository  
 This repository contains all Terraform code and documentation necessary to provision and deploy the application infrastructure on AWS.
 
-### 3. ⚡ Demo Video  
-
-- [📺 Watch Deployment Demo on YouTube](https://youtu.be/fNqOtAHuEPM)
-
-### 4. 📸 Screenshots of Deployed Web Application  
+### 3. 📸 Screenshots of Deployed Web Application  
 
 - ![Screenshot 1](Docs/web.png)
 
